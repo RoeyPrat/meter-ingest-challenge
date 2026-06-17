@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Excluded from public upload
+INTERVIEWER_GUIDE.md
+generate_data.py
+.reference_solution.py
